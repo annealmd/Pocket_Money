@@ -10,17 +10,17 @@ class HomeMenu extends StatefulWidget {
 class _HomeMenuState extends State<HomeMenu> {
   var _color = Colors.pink[300];
   var _left = 10.0;
-  //var _right = 0.0;
+  var _right = 0.0;
   var _top = 10.0;
-  //var _bottom = 0.0;
+  var _bottom = 0.0;
 
   void _animateContainer() {
     setState(() {
       _color = Colors.amber;
       _left = 50.0;
-      //var _right = 0.0;
+      _right = 0.0;
       _top = 50.0;
-      //var _bottom = 0.0;
+      _bottom = 0.0;
     });
   }
 
