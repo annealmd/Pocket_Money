@@ -1,7 +1,13 @@
 # PoketMoney
 
-A new Flutter project.
-
+This is a project to help Students who sell snacks at School/University for PoketMoney.
+- Products
+- Recipes
+- Shopping List
+- Control of Stock
+- Finances
+- Charts ( investment, income, profit)
+- Share the products in social midia.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
