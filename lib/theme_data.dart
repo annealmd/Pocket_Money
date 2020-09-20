@@ -187,6 +187,7 @@ final ThemeData myTheme = ThemeData(
       fontSize: 34.0,
       fontWeight: FontWeight.w400,
       fontStyle: FontStyle.normal,
+      fontFamily: 'MCF_Glowins',
     ),
     caption: TextStyle(
       color: Color(0xb3ffffff),

@@ -34,25 +34,19 @@ class _HomeMenuState extends State<HomeMenu> {
   Widget build(BuildContext context) {
     return Stack(
       children: [
-        AnimatedPositioned(
-          left: _left,
-          top: _top,
-          curve: Curves.easeInOut,
-          duration: Duration(seconds: 1),
-          child: ClipOval(
-            child: Container(
-              width: 80,
-              height: 80,
-              color: _color, // button color
-              child: InkWell(
-                  splashColor:
-                      Theme.of(context).primaryColorLight, // inkwell color
-                  child: IconButton(
-                      icon: Icon(
-                        Icons.cake,
-                      ),
-                      onPressed: null)),
-            ),
+        ClipOval(
+          child: Container(
+            width: 80,
+            height: 80,
+            color: _color, // button color
+            child: InkWell(
+                splashColor:
+                    Theme.of(context).primaryColorLight, // inkwell color
+                child: IconButton(
+                    icon: Icon(
+                      Icons.cake,
+                    ),
+                    onPressed: null)),
           ),
         ),
       ],
