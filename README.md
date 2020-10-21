@@ -11,7 +11,7 @@ This is a project to help Students who sell snacks at School/University for Poke
 ## Getting Started
 
 # First Project -> Quiz
-<img src="https://github.com/ETNINJA/learning/blob/master/app_1/app_1.jpeg" width="30%" height="30%">
+<img src="https://github.com/ETNINJA/Poket_Money/blob/master/animatedMenu.png" width="30%" height="30%">
 
 This project is a starting point for a Flutter application.
 
