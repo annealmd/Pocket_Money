@@ -2,7 +2,14 @@ import 'package:flutter/material.dart';
 
 import 'package:flutter_custom_clippers/flutter_custom_clippers.dart';
 
-class Products extends StatelessWidget {
+class Products extends StatefulWidget {
+  static const routeName = '/products';
+
+  @override
+  _ProductsState createState() => _ProductsState();
+}
+
+class _ProductsState extends State<Products> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
