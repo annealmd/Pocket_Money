@@ -10,7 +10,7 @@ This is a project to help Students who sell snacks at School/University for Poke
 - Share the products in social midia.
 ## Getting Started
 
-# First Project -> Quiz
+### Animated Menu
 <img src="https://github.com/ETNINJA/Poket_Money/blob/master/animatedMenu.png" width="30%" height="30%">
 
 This project is a starting point for a Flutter application.
