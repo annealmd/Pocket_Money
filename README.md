@@ -1,4 +1,4 @@
-# PoketMoney
+# PocketMoney
 
 This is a project to help Students who sell snacks at School/University for PoketMoney.
 - Products
