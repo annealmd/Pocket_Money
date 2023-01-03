@@ -154,6 +154,51 @@ final ThemeData myTheme = ThemeData(
       fontStyle: FontStyle.normal,
     ),
   ),
+  accentTextTheme: TextTheme(
+    headline4: TextStyle(
+      color: Color(0xb3ffffff),
+      fontSize: 96.0,
+      fontWeight: FontWeight.w300,
+      fontStyle: FontStyle.normal,
+    ),
+    headline3: TextStyle(
+      color: Color(0xb3ffffff),
+      fontSize: 60.0,
+      fontWeight: FontWeight.w300,
+      fontStyle: FontStyle.normal,
+    ),
+    headline2: TextStyle(
+      color: Color(0xb3ffffff),
+      fontSize: 48.0,
+      fontWeight: FontWeight.w400,
+      fontStyle: FontStyle.normal,
+    ),
+    headline1: TextStyle(
+      color: Color(0xb3ffffff),
+      fontSize: 34.0,
+      fontWeight: FontWeight.w400,
+      fontStyle: FontStyle.normal,
+      fontFamily: 'MCF_Glowins',
+    ),
+    caption: TextStyle(
+      color: Color(0xb3ffffff),
+      fontSize: 12.0,
+      fontWeight: FontWeight.w400,
+      fontStyle: FontStyle.normal,
+    ),
+    button: TextStyle(
+      color: Color(0xffffffff),
+      fontSize: 14.0,
+      fontWeight: FontWeight.w500,
+      fontStyle: FontStyle.normal,
+    ),
+    overline: TextStyle(
+      color: Color(0xffffffff),
+      fontSize: 10.0,
+      fontWeight: FontWeight.w400,
+      fontStyle: FontStyle.normal,
+    ),
+  ),
   inputDecorationTheme: InputDecorationTheme(
     labelStyle: TextStyle(
       color: Color(0xdd000000),
